@@ -1,0 +1,12 @@
+spin-test-http-c
+spin-test-http-empty
+spin-test-http-go
+spin-test-http-grain
+spin-test-http-php
+spin-test-http-rust
+spin-test-http-swift
+spin-test-http-zig
+spin-test-redirect
+spin-test-redis-go
+spin-test-redis-rust
+spin-test-static-fileserver
